@@ -17,8 +17,8 @@ This project calculates the production plan for a set of power plants based on t
 
 2. Activate the virtual environment:
    `bash
- .\venv\Scripts\activate
- `
+.\venv\Scripts\activate
+`
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -33,7 +33,7 @@ This project calculates the production plan for a set of power plants based on t
    ```
 
 2. Access the production plan endpoint:
-   - [http://localhost:8080/productionplan](http://localhost:8080/productionplan)
+   - [http://localhost:8888/productionplan](http://localhost:8888/productionplan)
 
 ## API Endpoint
 
